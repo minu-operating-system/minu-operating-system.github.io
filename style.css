@@ -3,19 +3,19 @@
 
 body {
   font-family: 'Ubuntu', sans-serif;
-  background: #c9dbfe;
+  background: #2C001E;
 }
 
 header {
   display: flex;
   color: #000510;
-  background: #f2f6ff;
+  background: #77216F;
   margin: 6px;
   border-radius: 5px;
   padding: 2px 13px;
 }
 main{
-  color: #000510;
+  color: #ffffff;
   background: #f2f6ff;
   margin: 6px;
   border-radius: 5px;
@@ -35,7 +35,7 @@ main{
 .navbar a {
   text-decoration: none;
   
-  color: #000510;
+  color: #ffffff;
   transition: .2s linear;
 }
 .navbar a:hover {
